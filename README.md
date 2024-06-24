@@ -22,7 +22,7 @@ Tabela para associar a empresa ao plano.
 - **Colunas Principais**:
   - `Pk_id_Plano`
 
-### 🌐 Tb_Empresa
+### 🏢 Tb_Empresa
 Tabela para alocar a empresa.
 
 - **Colunas Principais**:
