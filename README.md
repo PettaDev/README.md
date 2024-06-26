@@ -1,7 +1,7 @@
 
 <div align="center">
   <h4>Banco de Dados</h4>
-  <img src="Vel.png" width="50px" align="center">
+  <img src="Vel.png" width="70px" align="center">
 </div>
 
 ## 💡 Projeto
